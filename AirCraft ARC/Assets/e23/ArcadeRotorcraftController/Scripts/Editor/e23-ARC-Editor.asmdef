@@ -1,0 +1,18 @@
+{
+    "name": "e23-ARC-Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ea676ec9bdbb6bc4cabe51c50c3b4371"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
